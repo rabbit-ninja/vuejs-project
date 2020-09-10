@@ -1,4 +1,11 @@
-# upper
+# upper Case using *Vue.js*
+this simple app converts user input string to uppercase.
+
+## Working proof
+<img src="working project.gif" alt="working project proof"/>
+
+## Why made this?
+*CRISPTAG TECHNOLOGIES PRIVATE LIMITED*  asked me to do so for screening my resume for a job offer.
 
 ## Project setup
 ```
